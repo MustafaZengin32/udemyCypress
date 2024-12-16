@@ -6,7 +6,6 @@ describe('Temel Komutlar cy.visit', () => {
 
         cy.get('button[type="submit"]').click();
 
-    
     });
    
 
